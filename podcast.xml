@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI 日报</title>
+    <link>https://example.github.io/ai-daily</link>
+    <description>全自动 AI 行业日报，每天早 7 点更新。7 大板块覆盖：AI Infra / LLM / 具身智能 / 自动驾驶 / 机器人 / 消费硬件与脑机 / Agent。全部内容来自当日 RSS 信号源，LLM 写稿，事实核查后发布。</description>
+    <language>zh-CN</language>
+    <copyright>© 2026 柳清</copyright>
+    <lastBuildDate>Tue, 26 May 2026 16:24:51 +0000</lastBuildDate>
+    <atom:link href="https://example.github.io/ai-daily/podcast.xml" rel="self" type="application/rss+xml"/>
+
+    <itunes:author>柳清</itunes:author>
+    <itunes:subtitle>每天早 7 点的 AI 行业 8 分钟</itunes:subtitle>
+    <itunes:summary>全自动 AI 行业日报，每天早 7 点更新。7 大板块覆盖：AI Infra / LLM / 具身智能 / 自动驾驶 / 机器人 / 消费硬件与脑机 / Agent。全部内容来自当日 RSS 信号源，LLM 写稿，事实核查后发布。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>柳清</itunes:name>
+      <itunes:email>you@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://example.github.io/ai-daily/covers/2026-05-26.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>05/26 · 周二 AI 日报</title>
+      <description>各位听众早上好，今天是 5 月 26 日，欢迎收听 AI 日报，我是你的主播。今天我们会聊到几件大事：华为推出超大容量企业级 SSD、谷歌 CEO 承认 Coding 落后、小鹏欢迎特斯拉 FSD 入华，以及全国首个开源鸿蒙机器人操作系统发布，还有几条财经动态。
+
+先来看 AI 基础设施这块。华为最近在巴黎 ID Forum 2026 上展示了一项全新的 Die-on-Board 封装技术，基于这项技术推出的大容量 SSD 系列中，有一款面向 AI 推理和数据中心的产品，提供 61.44TB 和 122.88TB 两种容量选择，未来还计划推出 245TB 的版本。这表明存储领域正朝着更大容量和更高密度的方向迈进，尤其是在企业级应用中，这种技术可能会显著提升数据处理效率。与此同时，模拟芯片也开始成为 AI 基础设施的重要关注点。英伟达最新财报显示其数据中心收入同比增长 92%，而 SK 海力士则加大了对 HBM 相关设备的投资力度。此外，ADI 近期以 15 亿美元收购 Empower Semiconductor，这一动作释放出明确信号：AI 基础设施的竞争正在从 GPU 和 HBM 等显性算力环节，逐步下沉到电源管理、功率器件等底层支撑技术。再看一条储能领域的动态，国内单体容量最大的智能组串式储能电站已在内蒙古包头落地，这个项目搭载了 1944 台华为智能组串式构网 PCS，并利用废旧矿坑实现了生态修复。这说明绿色能源与 AI 基础设施的结合正在加速推进。最后，NVIDIA 在 COMPUTEX 上的 GTC Taipei 活动聚焦于 AI 工厂、扩展基础设施以及物理 AI 等前沿话题，同时其首款专为代理设计的 CPU Vera 已经交付给 Anthropic、OpenAI 等顶级 AI 实验室。这几条放一起看，半导体侧整体往大容量存储、先进封装和底层支撑技术走，同时绿色能...
+
+— 事实核查: ❌ `reject` | 归档: raw/AI 新闻/2026-05-26-AI日报.md</description>
+      <pubDate>Tue, 26 May 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-05-26</guid>
+      <enclosure url="https://example.github.io/ai-daily/audio/2026-05-26.mp3" length="12366618" type="audio/mpeg"/>
+      <itunes:duration>12:53</itunes:duration>
+      <itunes:image href="https://example.github.io/ai-daily/covers/2026-05-26.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05/24 · 来自华为的一项突破性技术</title>
+      <description>各位听众早上好，今天是 5 月 24 日，欢迎收听 AI 日报，我是你的主播。
+
+今天的头条来自华为的一项突破性技术。华为在巴黎举行的 ID Forum 2026 活动上展示了一种全新的 Die-on-Board 封装技术，基于这项技术，他们推出了一款面向 AI 推理和数据中心的 SSD，容量高达 61.44TB 和 122.88TB，并且未来还计划推出 245TB 的版本。这标志着存储技术的一次重大飞跃，尤其是在 AI 数据中心领域，超大容量存储设备将为模型训练和推理提供更强的支持。不过具体性能指标和落地细节目前官方还没有披露，咱们可以期待后续的更多信息。
+
+接下来进入今天的板块内容，先从 AI 基础设施开始。
+
+在 AI 基础设施领域，除了刚才提到的华为 SSD 技术，还有一条值得关注的消息。英伟达最近公布的财报显示，其数据中心收入同比增长了 92%，达到 752 亿美元，而存储厂商 SK 海力士也表示正在加大对先进芯片制造的投资，主要投向高带宽内存相关设备。这些动态表明，AI 算力需求的激增正推动整个半导体产业链加速发展。另外，国内单体容量最大的智能组串式储能电站在内蒙古包头正式发布，由海博思创与华为数字能源共同打造，搭载了 1944 台华为智能组串式构网 PCS。这一项目不仅展示了储能技术的进步，也为绿色能源的应用提供了新的可能性。
+
+接下来聊聊大模型领域的最新进展。
+
+谷歌 CEO 在最近的一次发言中坦率承认，自家的 Gemini 模型在 Coding 领域确实有些落后了。虽然没有透露具体的改进计划，但这种直面问题的态度还是值得肯定的。与此同时，OpenAI 的一款模型成功解决了离散几何学中的一个长达 80 年的难题，推翻了一个重要的猜想。这是 AI 在数学研究领域的一个重要里程碑，证明了大模型在复杂问题求解上的潜力。另外，DeepMind 最近推出了 Gemin...
+
+— 事实核查: ⚠️ `review` | 归档: raw/AI 新闻/2026-05-24-AI日报.md</description>
+      <pubDate>Sun, 24 May 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-05-24</guid>
+      <enclosure url="https://example.github.io/ai-daily/audio/2026-05-24.mp3" length="4741002" type="audio/mpeg"/>
+      <itunes:duration>04:56</itunes:duration>
+      <itunes:image href="https://example.github.io/ai-daily/covers/2026-05-24.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
