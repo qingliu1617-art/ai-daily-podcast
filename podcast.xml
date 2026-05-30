@@ -5,12 +5,12 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI 日报</title>
-    <link>https://example.github.io/ai-daily</link>
+    <link>https://qingliu1617-art.github.io/ai-daily-podcast</link>
     <description>全自动 AI 行业日报，每天早 7 点更新。7 大板块覆盖：AI Infra / LLM / 具身智能 / 自动驾驶 / 机器人 / 消费硬件与脑机 / Agent。全部内容来自当日 RSS 信号源，LLM 写稿，事实核查后发布。</description>
     <language>zh-CN</language>
     <copyright>© 2026 柳清</copyright>
-    <lastBuildDate>Tue, 26 May 2026 16:24:51 +0000</lastBuildDate>
-    <atom:link href="https://example.github.io/ai-daily/podcast.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 30 May 2026 17:33:09 +0000</lastBuildDate>
+    <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>柳清</itunes:author>
     <itunes:subtitle>每天早 7 点的 AI 行业 8 分钟</itunes:subtitle>
@@ -19,7 +19,7 @@
       <itunes:name>柳清</itunes:name>
       <itunes:email>you@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://example.github.io/ai-daily/covers/2026-05-26.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-26.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -30,12 +30,12 @@
 
 先来看 AI 基础设施这块。华为最近在巴黎 ID Forum 2026 上展示了一项全新的 Die-on-Board 封装技术，基于这项技术推出的大容量 SSD 系列中，有一款面向 AI 推理和数据中心的产品，提供 61.44TB 和 122.88TB 两种容量选择，未来还计划推出 245TB 的版本。这表明存储领域正朝着更大容量和更高密度的方向迈进，尤其是在企业级应用中，这种技术可能会显著提升数据处理效率。与此同时，模拟芯片也开始成为 AI 基础设施的重要关注点。英伟达最新财报显示其数据中心收入同比增长 92%，而 SK 海力士则加大了对 HBM 相关设备的投资力度。此外，ADI 近期以 15 亿美元收购 Empower Semiconductor，这一动作释放出明确信号：AI 基础设施的竞争正在从 GPU 和 HBM 等显性算力环节，逐步下沉到电源管理、功率器件等底层支撑技术。再看一条储能领域的动态，国内单体容量最大的智能组串式储能电站已在内蒙古包头落地，这个项目搭载了 1944 台华为智能组串式构网 PCS，并利用废旧矿坑实现了生态修复。这说明绿色能源与 AI 基础设施的结合正在加速推进。最后，NVIDIA 在 COMPUTEX 上的 GTC Taipei 活动聚焦于 AI 工厂、扩展基础设施以及物理 AI 等前沿话题，同时其首款专为代理设计的 CPU Vera 已经交付给 Anthropic、OpenAI 等顶级 AI 实验室。这几条放一起看，半导体侧整体往大容量存储、先进封装和底层支撑技术走，同时绿色能...
 
-— 事实核查: ❌ `reject` | 归档: raw/AI 新闻/2026-05-26-AI日报.md</description>
+— 事实核查: ⚠️ `review` | 归档: raw/AI 新闻/2026-05-26-AI日报.md</description>
       <pubDate>Tue, 26 May 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-05-26</guid>
-      <enclosure url="https://example.github.io/ai-daily/audio/2026-05-26.mp3" length="12366618" type="audio/mpeg"/>
+      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-26.mp3" length="12366618" type="audio/mpeg"/>
       <itunes:duration>12:53</itunes:duration>
-      <itunes:image href="https://example.github.io/ai-daily/covers/2026-05-26.jpg"/>
+      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-26.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
