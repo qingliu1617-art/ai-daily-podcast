@@ -4,20 +4,20 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI 日报</title>
+    <title>【AI行业日报】</title>
     <link>https://qingliu1617-art.github.io/ai-daily-podcast</link>
     <description>全自动 AI 行业日报，每天早 7 点更新。7 大板块覆盖：AI Infra / LLM / 具身智能 / 自动驾驶 / 机器人 / 消费硬件与脑机 / Agent。全部内容来自当日 RSS 信号源，LLM 写稿，事实核查后发布。</description>
     <language>zh-CN</language>
-    <copyright>© 2026 柳清</copyright>
-    <lastBuildDate>Sat, 30 May 2026 17:33:09 +0000</lastBuildDate>
+    <copyright>© 2026 Kim</copyright>
+    <lastBuildDate>Sun, 31 May 2026 02:30:44 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
-    <itunes:author>柳清</itunes:author>
-    <itunes:subtitle>每天早 7 点的 AI 行业 8 分钟</itunes:subtitle>
+    <itunes:author>Kim</itunes:author>
+    <itunes:subtitle>每天早 7 点的 AI 行业 12 分钟</itunes:subtitle>
     <itunes:summary>全自动 AI 行业日报，每天早 7 点更新。7 大板块覆盖：AI Infra / LLM / 具身智能 / 自动驾驶 / 机器人 / 消费硬件与脑机 / Agent。全部内容来自当日 RSS 信号源，LLM 写稿，事实核查后发布。</itunes:summary>
     <itunes:owner>
-      <itunes:name>柳清</itunes:name>
-      <itunes:email>you@example.com</itunes:email>
+      <itunes:name>Kim</itunes:name>
+      <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-26.jpg"/>
     <itunes:category text="Technology"/>
