@@ -9,7 +9,7 @@
     <description>全自动 AI 行业日报，每天早 7 点更新。7 大板块覆盖：AI Infra / LLM / 具身智能 / 自动驾驶 / 机器人 / 消费硬件与脑机 / Agent。全部内容来自当日 RSS 信号源，LLM 写稿，事实核查后发布。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 31 May 2026 05:53:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 06:57:44 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -40,23 +40,86 @@
     </item>
     <item>
       <title>05/31 · 周日 AI 日报</title>
-      <description>各位听众早上好，今天是5月31日，欢迎收听 AI 日报，我是你的主播。今天我们会聊到几件大事：华为自研DoB封装技术造出122TB SSD、谷歌推出Gemini Omni、特斯拉FSD完成横穿加拿大自动驾驶、全国首个开源鸿蒙机器人操作系统发布，还有几条财经动态。
+      <description>📋 今日要闻 · 2026-05-31
 
-先来看 AI 基础设施这块。华为在巴黎举行的 ID Forum 2026 活动上展示了基于自研 Die-on-Board（DoB）封装技术的大容量 SSD 系列，其中一款面向 AI 推理和数据中心的产品提供 61.44TB 与 122.88TB 两种容量，未来还计划推出 245TB 版本。这项技术据称绕过了 400 层 NAND 的限制，实现了更高密度的存储方案。
+【AI 基础设施】
+• 消息称因战略分歧，三星与 OpenAI 定制 AI 芯片研发项目陷入停滞
+  IT之家 · 2026-05-30 · https://www.ithome.com/0/957/706.htm
+• AI时代的财富神话背后，谁分走了最大的一块蛋糕？
+  36氪 · 2026-05-22 · https://www.36kr.com/p/3820244024906121
+• NVIDIA and Google Cloud Empower the Next Wave of AI Builders
+  NVIDIA Blog · 2026-05-19 · https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/
+• NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, 
+  NVIDIA Blog · 2026-05-18 · https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/
 
-另外，AI 的热潮正推动产业链向更底层的模拟芯片延伸。ADI 近日以 15 亿美元全现金收购 Empower Semiconductor，显示出电源、功率和信号完整性等模拟环节正在成为 AI 基础设施的关键支撑。与此同时，SK 海力士也表示正提高先进芯片制造支出，重点投向 HBM 相关设备。
+【大模型】
+• 4大顶尖模型被扔进虚拟小镇求生，GPT全员饿死，Grok四天灭世
+  36氪 · 2026-05-29 · https://www.36kr.com/p/3830290559756161
+• 生物学变天：小扎的新开源模型，彻底掀翻谷歌AlphaFold王座
+  36氪 · 2026-05-29 · https://www.36kr.com/p/3830290697414528
+• Strengthening societal resilience with Rosalind Biodefense
+  OpenAI Blog · 2026-05-29 · https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
+• 实测 Claude Opus 4.8：活干得更漂亮了，话说得更难听了
+  36氪 · 2026-05-29 · https://www.36kr.com/p/3830314524927877
+• 今天凌晨，Claude Opus 4.8上线，融资650亿美金，但更强的还在后面
+  36氪 · 2026-05-29 · https://www.36kr.com/p/3829914029762434
 
-再看一条电力侧的消息：国内单体容量最大的智能组串式储能电站——220kV 博汉星光储能电站在内蒙古包头正式发布。该项目容量为 400 兆瓦 / 2400 兆瓦时，搭载 1944 台华为智能组串式构网 PCS，已于 2025 年 12 月底并网，目前稳定运行，同时还利用废旧矿坑实现了生态修复。
+【具身智能模型】
+• NVIDIA Research Advances Robotics From Simulation to the Real World
+  NVIDIA Blog · 2026-05-28 · https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/
 
-同样在硬件交付方面，NVIDIA 首款专为智能体设计的 Vera CPU 已于上周五送达 Anthropic、OpenAI 和 SpaceXAI 三家顶级 AI 实验室，随后周一又交付给 Oracle Cloud Infrastructure，由 NVIDIA 高管亲自递送。
+【智能驾驶】
+• 马斯克发视频展示 Cybercab 自动驶出工厂，即将开启商业化运营
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/713.htm
+• 6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/718.htm
+• 乐道沈斐总结焕新款 L60 汽车六大维度升级关键信息，称智驾进入第一梯队
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/738.htm
+• 特斯拉 FSD（监督版）获爱沙尼亚批准，即将推送
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/725.htm
 
-这几条放一起看，存储密度、模拟支撑、电力配套和新型处理器都在同步推进，基础设施层正多线并进支...
+【机器人硬件】
+• 20 亿美元机器人独角兽将民宿当实验室：多套 Airbnb 房源受损，房东发起诉讼
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/734.htm
+• 普渡机器人创始人张涛出席BEYOND Expo开幕式，共话“数实共生”下的Physical AI路径
+  36氪 · 2026-05-29 · https://www.36kr.com/p/3830212844808070
 
-— 事实核查: ✅ `publish` | 归档: raw/AI 新闻/2026-05-31-AI日报.md</description>
+【AI 消费硬件与脑机】
+• 联想 NVIDIA N1X 笔电现身保加利亚电商，处理器包含 "675" "650" 等款式
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/720.htm
+• 讯飞AI眼镜亮相BEYOND Expo 2026，拓展AI终端走向真实场景新路径
+  36氪 · 2026-05-29 · https://www.36kr.com/p/3830205689357954
+• 微星 Claw 8 EX AI+ 掌机实物亮相，确认升级人体工学防滑握把
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/723.htm
+• 华硕 "RC74XA" 掌机在韩获得认证，消息称基于 AMD 锐龙 Z2 Extreme
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/716.htm
+
+【AI Agent】
+• OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise envir
+  OpenAI Blog · 2026-05-18 · https://openai.com/index/dell-codex-enterprise-partnership
+• 微软：Claude Code的token，我也烧不起了
+  36氪 · 2026-05-22 · https://www.36kr.com/p/3820285407760514
+• “全民养虾”50天：一场AI套利狂欢与它的骤然终结
+  36氪 · 2026-05-22 · https://www.36kr.com/p/3820183242068360
+• 阿里与谷歌，agent 齐 步走
+  36氪 · 2026-05-22 · https://www.36kr.com/p/3820266736295941
+• 微软旗下领英将打击 AI 生成垃圾内容，检测后不再推荐给其他用户
+  IT之家 · 2026-05-24 · https://www.ithome.com/0/954/528.htm
+
+【💰 财经动态】
+• 软银豪掷 750 亿欧元，在法国建设 5 吉瓦 AI 数据中心
+  IT之家 · 2026-05-30 · https://www.ithome.com/0/957/698.htm
+• 一份股东名单里悄悄多了三个名字
+  36氪 · 2026-05-29 · https://www.36kr.com/p/3829908137369865
+• 复旦学姐，估值1000亿
+  36氪 · 2026-05-31 · https://www.36kr.com/p/3831510606473090
+
+— 事实核查: ❌ `reject`
+— 完整稿件: https://qingliu1617-art.github.io/ai-daily-podcast/</description>
       <pubDate>Sun, 31 May 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-05-31</guid>
-      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-31.mp3" length="13106406" type="audio/mpeg"/>
-      <itunes:duration>13:39</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-31.mp3" length="12654905" type="audio/mpeg"/>
+      <itunes:duration>13:13</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-31.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
