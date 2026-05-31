@@ -9,7 +9,7 @@
     <description>全自动 AI 行业日报，每天早 7 点更新。7 大板块覆盖：AI Infra / LLM / 具身智能 / 自动驾驶 / 机器人 / 消费硬件与脑机 / Agent。全部内容来自当日 RSS 信号源，LLM 写稿，事实核查后发布。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 31 May 2026 02:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 05:53:53 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,7 +19,7 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-26.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-31.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -36,6 +36,28 @@
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-26.mp3" length="12366618" type="audio/mpeg"/>
       <itunes:duration>12:53</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-26.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05/31 · 周日 AI 日报</title>
+      <description>各位听众早上好，今天是5月31日，欢迎收听 AI 日报，我是你的主播。今天我们会聊到几件大事：华为自研DoB封装技术造出122TB SSD、谷歌推出Gemini Omni、特斯拉FSD完成横穿加拿大自动驾驶、全国首个开源鸿蒙机器人操作系统发布，还有几条财经动态。
+
+先来看 AI 基础设施这块。华为在巴黎举行的 ID Forum 2026 活动上展示了基于自研 Die-on-Board（DoB）封装技术的大容量 SSD 系列，其中一款面向 AI 推理和数据中心的产品提供 61.44TB 与 122.88TB 两种容量，未来还计划推出 245TB 版本。这项技术据称绕过了 400 层 NAND 的限制，实现了更高密度的存储方案。
+
+另外，AI 的热潮正推动产业链向更底层的模拟芯片延伸。ADI 近日以 15 亿美元全现金收购 Empower Semiconductor，显示出电源、功率和信号完整性等模拟环节正在成为 AI 基础设施的关键支撑。与此同时，SK 海力士也表示正提高先进芯片制造支出，重点投向 HBM 相关设备。
+
+再看一条电力侧的消息：国内单体容量最大的智能组串式储能电站——220kV 博汉星光储能电站在内蒙古包头正式发布。该项目容量为 400 兆瓦 / 2400 兆瓦时，搭载 1944 台华为智能组串式构网 PCS，已于 2025 年 12 月底并网，目前稳定运行，同时还利用废旧矿坑实现了生态修复。
+
+同样在硬件交付方面，NVIDIA 首款专为智能体设计的 Vera CPU 已于上周五送达 Anthropic、OpenAI 和 SpaceXAI 三家顶级 AI 实验室，随后周一又交付给 Oracle Cloud Infrastructure，由 NVIDIA 高管亲自递送。
+
+这几条放一起看，存储密度、模拟支撑、电力配套和新型处理器都在同步推进，基础设施层正多线并进支...
+
+— 事实核查: ✅ `publish` | 归档: raw/AI 新闻/2026-05-31-AI日报.md</description>
+      <pubDate>Sun, 31 May 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-05-31</guid>
+      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-31.mp3" length="13106406" type="audio/mpeg"/>
+      <itunes:duration>13:39</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-31.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
