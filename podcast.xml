@@ -9,7 +9,7 @@
     <description>全自动 AI 行业日报，每天早 7 点更新。7 大板块覆盖：AI Infra / LLM / 具身智能 / 自动驾驶 / 机器人 / 消费硬件与脑机 / Agent。全部内容来自当日 RSS 信号源，LLM 写稿，事实核查后发布。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 16:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:08:36 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -245,89 +245,77 @@
       <description>📋 今日要闻 · 2026-06-04
 
 【AI 基础设施】
-• Nvidia Gets Into the PC Market With New Chip | Bloomberg Tech 6/1/2026
-  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/news/videos/2026-06-01/bloomberg-tech-6-1-2026-video
-• Nvidia Is Taking On Intel and AMD With AI Chip for Computers
-  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/news/videos/2026-06-01/nvidia-takes-on-intel-and-amd-with-ai-chip-for-computers-video
-• 联发科表态：下一代芯片独家采用英特尔 EMIB-T 封装，预计 2027 年 Q4 量产
-  IT之家 · 2026-06-02 · https://www.ithome.com/0/958/954.htm
-• 英伟达 Spectrum- X 以太网硅光技术已全面量产，较传统网络能效提升 5 倍
-  IT之家 · 2026-06-02 · https://www.ithome.com/0/958/948.htm
-• 速递｜英伟达进军CPU市场：Vera获OpenAI、Anthropic背书，三季度全面投产
-  jtks-zpotentials · 2026-06-02 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515959&amp;idx=3&amp;sn=c60248da8c3e2b87c2355fe7955bf589&amp;chksm=ea9146709de6167ebcd0dee48f5b7de4661fb5ad92360d55c5bcd0c5c3181cc4365aa45bac22&amp;scene=0#rd
+• 万亿IPO前夜，OpenAI把赌注押到了基建工地上
+  36氪 · 2026-06-03 · https://www.36kr.com/p/3837018445280649
+• 黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”
+  36氪 · 2026-06-03 · https://www.36kr.com/p/3836916617246088
+• Cerebras did what the industry calls impossible: turned an entire 46,225mm² wafe
+  x-semianalysis · 2026-06-02 · https://www.x.com/SemiAnalysis_/status/2061915952711639361
+• 老黄带着英伟达CPU杀入PC赛道
+  jtks-qbitai · 2026-06-02 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247894165&amp;idx=2&amp;sn=0125e0e1973268ab6434b7a2664bcc8c&amp;chksm=e91dd77888bca30d0809d66fca5aeb14fade94d3197cb314d2e9fd25ea3164ee47819c9a52c3&amp;scene=0#rd
 
 【大模型】
-• “ChatGPT以后可能要没了”
-  jtks-qbitai · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247894700&amp;idx=2&amp;sn=4aa7c36a7a08f5425fed1a761fc9669b&amp;chksm=e917289bab55fcd5762c9af51cacb76d12690613840e3848f8d7185b1b4342968c1cebbf69d8&amp;scene=0#rd
-• 很好！和OpenAI分手后微软彻底疯了
-  jtks-qbitai · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247894633&amp;idx=1&amp;sn=1881b608a836ad3eaad6306617fe3925&amp;chksm=e96829b7018e07bc37bae8dd8d9891e8605b08396a21e06d2d46b6465e14002e3c2fa14069bd&amp;scene=0#rd
-• Introducing Gemma 4 12B: a unified, encoder-free multimodal model
-  google-blog · 2026-06-03 · https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
+• Anthropic to Give Mythos to First EU Body Ahead of Wider Release
+  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos
+• 400 tokens/秒！阶跃Step 3.7 Flash，把Agent任务成本打到Claude零头
+  jtks-xinzhiyuan · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652704261&amp;idx=1&amp;sn=d7395d05a4be0c782a4855e098e15961&amp;chksm=f00bc744210968982ec1e393b2d267831cd7bc69b3364214a0a2efbc3035d800c0b230eeeee3&amp;scene=0#rd
+• 9 demos of Gemini Omni and Gemini 3.5 in action
+  google-blog · 2026-05-29 · https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/
+• 消耗1830亿token，Meta用AI把数学教材翻译成了一个超大Lean库
+  36氪 · 2026-05-29 · https://www.36kr.com/p/3829852422940291
 
 【具身智能模型】
-• NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent 
-  NVIDIA Blog · 2026-06-03 · https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/
-• 把 GPT-4o 拉下神坛！星源智联合北大推出 RoboAgent，让 3B VLM 在未知场景跑出 94% 成功率
-  jtks-aifrontline · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663058&amp;idx=2&amp;sn=08cb33501d8f251dc319b5d11158135a&amp;chksm=fa1a2e065cfeb7f5a236237b25c955218ba41dd28d72c88ce3de2f04a19f10cc301ca33fffcf&amp;scene=0#rd
-• 终于有人来挑战PI的flow matching的叙事了
-  jtks-jushen-jiyuan · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247494112&amp;idx=1&amp;sn=9fd98185a671014b582d10693d2e8b65&amp;chksm=c5b01efd31ee233f7c825de45c333fa474ba9617d779a31a657ab6af05f733f29df111f10ecd&amp;scene=0#rd
-• Luma AI Launches Physical AI Lab
-  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/news/videos/2026-06-01/luma-ai-launches-physical-ai-lab-video
+• NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autono
+  NVIDIA Blog · 2026-06-03 · https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/
+• RSS 2026｜蚂蚁灵波提出首个自回归因果世界模型，50条数据解锁通用机器人操控
+  jtks-jiqizhixin · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651036834&amp;idx=2&amp;sn=2ee913b69d3841ccae7b2fa64b0704d4&amp;chksm=854e75278d0c5d8710791186b619f28cbb7a9ef19e4825f033ed3e4162b77337b9f8e42e68ac&amp;scene=0#rd
+• 机器人世界模型该喂什么数据，τ0-WM给出一条新路径
+  jtks-jushen-jiyuan · 2026-05-31 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247493966&amp;idx=1&amp;sn=ebdb634877c5f4b5fabf3d513851da02&amp;chksm=c5243f1f77fd0daaf2008ad58fcef88a7d40bb0c81a23e884a8fe76eb78410cabacf6da1c411&amp;scene=0#rd
 
 【智能驾驶】
-• 千里智驾首发 ChainFlow-VLA：NAVSIM首个超越人类专家轨迹的VLA方案
-  jtks-autodrive-heart · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695151&amp;idx=1&amp;sn=b1cdcdd32bb952e9a4d4b833ad001c7c&amp;chksm=cfd6a446eabab580789119eafe591729a97d3f9ceb805c42baacf588ccc819e62e05227024ce&amp;scene=0#rd
-• 消息称鸿蒙智行 2024 款问界 M9 汽车硬件升级服务落地，提供两种方案可选
-  IT之家 · 2026-06-02 · https://www.ithome.com/0/958/955.htm
-• Tesla patents camera wiper for self-driving — resulting in more doubts for FSD o
-  electrek · 2026-06-02 · https://electrek.co/2026/06/02/tesla-patents-camera-wiper-self-driving-robotaxi/
-• 结合英伟达技术，优步将与 Autobrains 在德国慕尼黑推出自动驾驶出租车服务
-  IT之家 · 2026-06-01 · https://www.ithome.com/0/958/338.htm
+• 小米汽车：升级 HyperOS 1.16 版本后，YU7 Pro / Max / 长续航版均搭载 XLA 认知大模型
+  IT之家 · 2026-06-03 · https://www.ithome.com/0/959/562.htm
+• 华为联合天津港发布新一代港口智能水平运输系统解决方案，可适配全球绝大多数传统集装箱码头
+  IT之家 · 2026-06-03 · https://www.ithome.com/0/959/549.htm
+• 何小鹏回应 GX 海外热度：未公布定价已获中东千辆盲订，全球 L3 自动驾驶明年 Q1 实施
+  IT之家 · 2026-06-03 · https://www.ithome.com/0/959/535.htm
 
 【机器人硬件】
-• 比亚迪入局人形机器人：若认为能走向家庭，就通过经销商网络开卖
-  IT之家 · 2026-06-03 · https://www.ithome.com/0/959/531.htm
-• ICRA 2026 现场：中国军团主导维也纳，新锐巨头混战具身智能深水区
-  jtks-leifengwang · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651749900&amp;idx=1&amp;sn=7830f68473bb06515b2f00f2f40d097b&amp;chksm=63f7d5dbde7b94e3e9cee61ddaeb81271e5f12cf79f349ef0aceab4c0395fcca5679bad8cff6&amp;scene=0#rd
-• 具身生态观察02｜机器狗翻跟头都卷到几百元了，机器人租赁到底赚什么钱？
-  jtks-jushen-xingqiu · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzcwMDIwMTAzNA==&amp;mid=2247484279&amp;idx=1&amp;sn=fa18f0c0cf81a99302e1b314daeaf307&amp;chksm=f4b22252c3c5ab44fc00215c379288e15695f53a9feecc5b0770d5eb69ccc7f4580ce01a5e48#rd
+• The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body a
+  wired-ai · 2026-06-03 · https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/
 
 【AI 消费硬件与脑机】
-• 云端token爆发后，端侧算力起步：智能体一体机迎来六路玩家
-  36氪 · 2026-06-03 · https://www.36kr.com/p/3836735436191106
-• Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption
-  wired-ai · 2026-06-03 · https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/
-• 宏碁展示 Aspire Go 15 笔记本：骁龙 C 系列芯片、15.6 英寸 FHD 屏幕，预计售价 399 美元
-  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/820.htm
-• 至高可选锐龙 AI 7 445 处理器：华硕破晓 7 Pro 笔记本 14/16 英寸开启预约，7999 元起
-  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/814.htm
+• Nvidia’s RTX Spark Sets Up Fight Over the Soul of Windows PCs
+  bloomberg-tech · 2026-06-03 · https://www.bloomberg.com/news/articles/2026-06-03/nvidia-s-rtx-spark-sets-up-fight-over-the-soul-of-windows-pcs
+• 华为鸿蒙 3D 影像壁纸最新适配计划公开，覆盖 Mate 70、Pura 80 等系列机型
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/782.htm
+• 《华为应用市场 2025 年度安全与隐私治理报告》发布，防护恶意应用安装 4928 万次
+  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/777.htm
 
 【AI Agent】
-• 16亿Windows用户，一夜冲进Agent时代
-  36氪 · 2026-06-03 · https://www.36kr.com/p/3837001359947143
-• Codex 加入，ChatGPT变成“打工bot”
-  36氪 · 2026-06-03 · https://www.36kr.com/p/3836943798369158
-• 今天，ChatGPT+Codex官宣合体，10亿人喜提“超级Agent”
-  36氪 · 2026-06-02 · https://www.36kr.com/p/3836668227466630
-• 腾讯、阿里、字节，混战Skill商店
-  36氪 · 2026-06-03 · https://www.36kr.com/p/3837292043484033
-• 摩根士丹利将向外部 AI 智能体开放其万亿美元规模资管业务接口
-  IT之家 · 2026-06-03 · https://www.ithome.com/0/959/553.htm
+• Microsoft and OpenAI broke up — now they’re ready to fight
+  theverge · 2026-06-03 · https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition
+• 16亿Windows用户，一夜冲进Agent时代！
+  jtks-xinzhiyuan · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652704799&amp;idx=1&amp;sn=b723e2f5886a7b7a246b05ce7bc72048&amp;chksm=f07ccdb9c8ce70d36758e90c4ab79182bb01107966b70d9278f6970c419d3c8721424caa60b4&amp;scene=0#rd
+• 硅谷大事件丨ChatGPT与Codex官宣合体，超级应用覆盖10亿用户；微软发布7款自研模型，摆脱OpenAI模型依赖；谷歌推出多智能体自主科研系统
+  jtks-leifengwang · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651749816&amp;idx=2&amp;sn=9b0679e84aa7876db4c4146ad3359c1c&amp;chksm=636093129b14061a6e1c12714f16100098e88ccd6769428862d5e7adfadf9737eb944dc53ad5&amp;scene=0#rd
+• Codex三大重磅更新上线：合并ChatGPT倒计时
+  jtks-aihambri · 2026-06-02 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515327&amp;idx=1&amp;sn=f65c7bad7a2a17da058d2306bfd0d25a&amp;chksm=cf61c8079fe3b3cefde40d36d02f2319195e4495a77ef2c997be62da62c40d61231c1dfc38b9&amp;scene=0#rd
 
 【💰 财经动态】
-• 谷歌母公司 Alphabet 宣布将股权融资规模从 800 亿美元增至 847.5 亿美元
-  IT之家 · 2026-06-03 · https://www.ithome.com/0/959/556.htm
-• DeepSeek Close to Sealing $7 Billion Funding in Historic AI Deal
-  bloomberg-tech · 2026-06-03 · https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal
-• 36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元
-  36氪 · 2026-06-03 · https://www.36kr.com/p/3836973710423429
+• Alphabet Upsizes Equity Offering to $85 Billion for AI Spending
+  bloomberg-tech · 2026-06-03 · https://www.bloomberg.com/news/articles/2026-06-03/alphabet-upsizes-equity-offering-to-85-billion-for-ai-spending
+• Anthropic秘密递表背后：算力赎身迫在眉睫
+  36氪 · 2026-06-03 · https://www.36kr.com/p/3836194689088130
+• Earlier this month, our run-rate revenue crossed $47 billion.   This growth has 
+  x-anthropic · 2026-05-28 · https://www.x.com/AnthropicAI/status/2060061348818518493
 
 — 事实核查: ⚠️ `review`
 — 完整稿件: https://qingliu1617-art.github.io/ai-daily-podcast/</description>
       <pubDate>Thu, 04 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-04</guid>
-      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-04.mp3" length="12235275" type="audio/mpeg"/>
-      <itunes:duration>12:47</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-04.mp3" length="9973279" type="audio/mpeg"/>
+      <itunes:duration>10:25</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-06-04.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
