@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 14:40:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:55:15 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -115,7 +115,7 @@
       <guid isPermaLink="false">ai-daily-2026-06-03</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-03.mp3" length="11476260" type="audio/mpeg"/>
       <itunes:duration>11:59</itunes:duration>
-      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-06-03.jpg"/>
+      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -127,7 +127,7 @@
       <guid isPermaLink="false">ai-daily-2026-05-26</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-26.mp3" length="12366618" type="audio/mpeg"/>
       <itunes:duration>12:53</itunes:duration>
-      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-26.jpg"/>
+      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -229,7 +229,7 @@
       <guid isPermaLink="false">ai-daily-2026-06-02</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-02.mp3" length="12293790" type="audio/mpeg"/>
       <itunes:duration>12:50</itunes:duration>
-      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-06-02.jpg"/>
+      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -305,7 +305,7 @@
       <guid isPermaLink="false">ai-daily-2026-06-04</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-04.mp3" length="9940366" type="audio/mpeg"/>
       <itunes:duration>10:21</itunes:duration>
-      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-06-04.jpg"/>
+      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -387,7 +387,7 @@
       <guid isPermaLink="false">ai-daily-2026-05-31</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-31.mp3" length="12654905" type="audio/mpeg"/>
       <itunes:duration>13:13</itunes:duration>
-      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-31.jpg"/>
+      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -481,7 +481,7 @@
       <guid isPermaLink="false">ai-daily-2026-06-01</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-01.mp3" length="12144993" type="audio/mpeg"/>
       <itunes:duration>12:41</itunes:duration>
-      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-06-01.jpg"/>
+      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
