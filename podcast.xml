@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 14:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:40:41 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -388,26 +388,6 @@
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-31.mp3" length="12654905" type="audio/mpeg"/>
       <itunes:duration>13:13</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-05-31.jpg"/>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>5月24日AI新闻速递 · 来自华为的一项突破性技术</title>
-      <description>各位听众早上好，今天是 5 月 24 日，欢迎收听 AI 日报，我是你的主播。
-
-今天的头条来自华为的一项突破性技术。华为在巴黎举行的 ID Forum 2026 活动上展示了一种全新的 Die-on-Board 封装技术，基于这项技术，他们推出了一款面向 AI 推理和数据中心的 SSD，容量高达 61.44TB 和 122.88TB，并且未来还计划推出 245TB 的版本。这标志着存储技术的一次重大飞跃，尤其是在 AI 数据中心领域，超大容量存储设备将为模型训练和推理提供更强的支持。不过具体性能指标和落地细节目前官方还没有披露，咱们可以期待后续的更多信息。
-
-接下来进入今天的板块内容，先从 AI 基础设施开始。
-
-在 AI 基础设施领域，除了刚才提到的华为 SSD 技术，还有一条值得关注的消息。英伟达最近公布的财报显示，其数据中心收入同比增长了 92%，达到 752 亿美元，而存储厂商 SK 海力士也表示正在加大对先进芯片制造的投资，主要投向高带宽内存相关设备。这些动态表明，AI 算力需求的激增正推动整个半导体产业链加速发展。另外，国内单体容量最大的智能组串式储能电站在内蒙古包头正式发布，由海博思创与华为数字能源共同打造，搭载了 1944 台华为智能组串式构网 PCS。这一项目不仅展示了储能技术的进步，也为绿色能源的应用提供了新的可能性。
-
-接下来聊聊大模型领域的最新进展。
-
-谷歌 CEO 在最近的一次发言中坦率承认，自家的 Gemini 模型在 Coding 领域确实有些落后了。虽然没有透露具体的改进计划，但这种直面问题的态度还是值得肯定的。与此同时，OpenAI 的一款模型成功解决了离散几何学中的一个长达 80 年的难题，推翻了一个重要的猜想。这是 AI 在数学研究领域的一个重要里程碑，证明了大模型在复杂问题求解上的潜力。另外，DeepMind 最近推出了 Gemin...</description>
-      <pubDate>Sun, 24 May 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ai-daily-2026-05-24</guid>
-      <enclosure url="https://example.github.io/ai-daily/audio/2026-05-24.mp3" length="4741002" type="audio/mpeg"/>
-      <itunes:duration>04:56</itunes:duration>
-      <itunes:image href="https://example.github.io/ai-daily/covers/2026-05-24.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
