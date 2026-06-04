@@ -5,11 +5,11 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI 行业新闻速递</title>
-    <link>https://qingliu1617-art.github.io/ai-daily-podcast</link>
+    <link>https://qingliu1617-art.github.io/ai-daily-podcast/</link>
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 13:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:07:01 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,7 +19,7 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-06-04.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -312,8 +312,8 @@
 </description>
       <pubDate>Thu, 04 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-04</guid>
-      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-04.mp3" length="9940366" type="audio/mpeg"/>
-      <itunes:duration>10:21</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-04.mp3" length="9973279" type="audio/mpeg"/>
+      <itunes:duration>10:25</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/2026-06-04.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
