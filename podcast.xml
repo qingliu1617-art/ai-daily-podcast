@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 16:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 16:37:21 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -29,10 +29,8 @@
       <description>📋 今日要闻 · 2026-06-05
 
 【AI 基础设施】
-• 刚刚！老黄杀疯了！英伟达首颗PC芯片RTX Spark发布，对决英特尔与AMD
-  jtks-zhinengjiyuanagi · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzcwMTIxNjgwMA==&amp;mid=2247487737&amp;idx=1&amp;sn=ba7dfd58f9f53a8e81a032efce5e545a&amp;chksm=f4a2b1b6c3d538a0e59e7f10848d471449fd6de07d5b657ca08ac84d1222e1764464056104d5#rd
-• Nvidia is already planning N2X and N3X chips — the goal is the Star Trek compute
-  theverge · 2026-06-03 · https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan
+• Broadcom Slides After AI Chip Outlook Disappoints Investors
+  bloomberg-tech · 2026-06-03 · https://www.bloomberg.com/news/articles/2026-06-03/broadcom-outlook-disappoints-investors-seeking-ai-fueled-blowout
 • TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#82
   theverge · 2026-06-04 · https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles
 • Samsung Electronics Begins Shipment of Industry-First HBM4E Samples
@@ -97,13 +95,11 @@
   jtks-zpotentials · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515992&amp;idx=3&amp;sn=2ad060ee4bbbd965f8e79a4778eefe09&amp;chksm=eae9159852b754f4c1862f4c9cf2688bff48af23415cbbdf808f5f3b668f2d65a8e7ced68dd3&amp;scene=0#rd
 • 独家 | 字节火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元
   jtks-zhinengyongxian · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247516676&amp;idx=1&amp;sn=679ed1cb81ed7f87c5edcdc60729ac32&amp;chksm=c1914b58a6d1c3bd8ba4098908b65219e47007a5545d08c0609e6774a2194bd1b2e02c3f8126&amp;scene=0#rd
-• Anthropic Files Confidentially for IPO in Race With OpenAI
-  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/news/videos/2026-06-01/anthropic-files-confidentially-for-ipo-in-race-with-openai
 </description>
       <pubDate>Fri, 05 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-05</guid>
-      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-05.mp3" length="9514465" type="audio/mpeg"/>
-      <itunes:duration>09:55</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-05.mp3" length="9291693" type="audio/mpeg"/>
+      <itunes:duration>09:41</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
