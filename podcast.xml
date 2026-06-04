@@ -5,11 +5,11 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI 行业新闻速递</title>
-    <link>https://qingliu1617-art.github.io/ai-daily-podcast/</link>
+    <link>https://qingliu1617-art.github.io/ai-daily-podcast</link>
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 14:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 16:18:47 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -481,6 +481,93 @@
       <guid isPermaLink="false">ai-daily-2026-06-01</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-01.mp3" length="12144993" type="audio/mpeg"/>
       <itunes:duration>12:41</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>6月5日AI新闻速递</title>
+      <description>📋 今日要闻 · 2026-06-05
+
+【AI 基础设施】
+• 刚刚！老黄杀疯了！英伟达首颗PC芯片RTX Spark发布，对决英特尔与AMD
+  jtks-zhinengjiyuanagi · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzcwMTIxNjgwMA==&amp;mid=2247487737&amp;idx=1&amp;sn=ba7dfd58f9f53a8e81a032efce5e545a&amp;chksm=f4a2b1b6c3d538a0e59e7f10848d471449fd6de07d5b657ca08ac84d1222e1764464056104d5#rd
+• Nvidia is already planning N2X and N3X chips — the goal is the Star Trek compute
+  theverge · 2026-06-03 · https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan
+• TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#82
+  theverge · 2026-06-04 · https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles
+• Samsung Electronics Begins Shipment of Industry-First HBM4E Samples
+  samsung-newsroom · 2026-05-29 · https://news.samsung.com/global/samsung-electronics-begins-shipment-of-industry-first-hbm4e-samples
+
+【大模型】
+• 专家预测年底才到，Claude Mythos今天就跑出3小时6分
+  36氪 · 2026-06-04 · https://www.36kr.com/p/3838773292239105
+• 微软「意外泄密」：Claude Mythos万亿参数，训练规模浮出水面？
+  jtks-xinzhiyuan · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652704935&amp;idx=1&amp;sn=40289be347b75b7a28f4d6316e9e16dd&amp;chksm=f0d8460f23a0e04713e7dddf086af476da8710410531e63ab690e03fdff443a8d558b8a330c9&amp;scene=0#rd
+• 120亿参数跑在16G笔记本上，谷歌Gemma 4新成员杀来了
+  jtks-jiqizhixin · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651037142&amp;idx=3&amp;sn=4f4b6b166c1ab682a944438f594da763&amp;chksm=8576883a804874ad14ae1ecf0a55d5a32eb1b49efd8f2842133e9197663e7acdc2ceccea2b39&amp;scene=0#rd
+• 重磅！谷歌开源Gemma 4 12B：统一的、无编码器的多模态模型，16G内存笔记本就可以跑
+  jtks-aihambri · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515336&amp;idx=1&amp;sn=33462c04351b471ac3cb7ace13cfb085&amp;chksm=cf1173d9284f6d978437f94164104ca5dd96212ff4a9ca9f81037b533c729f0067bb45543497&amp;scene=0#rd
+
+【具身智能模型】
+• 英伟达甩出物理 AI 王炸！Cosmos 3 全模态模型开源，Agent Tookit 补齐工具短板
+  jtks-aifrontline · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663184&amp;idx=2&amp;sn=fc89efcb2b4f6ac38f289b9cce8414b7&amp;chksm=fa6ced5510783ca2590956742ea98426cd01a9596c6424974ef4cb54e79c4f94c85a029832bf&amp;scene=0#rd
+• 李飞飞看不下去了，亲自下场“辟谣”世界模型
+  36氪 · 2026-06-04 · https://www.36kr.com/p/3838623097080065
+
+【智能驾驶】
+• 何小鹏直播透露GX海外未上市，盲订已有1000
+  36kr-newsflash · 2026-06-03 · https://36kr.com/newsflashes/3837396178372869?f=rss
+• Tesla retroactively added ‘supervised’ to FSD contracts owners signed years ago
+  electrek · 2026-06-03 · https://electrek.co/2026/06/03/tesla-retroactively-modified-fsd-contracts-supervised/
+• Autonomous vehicles were supposed to cut traffic—what if they don't?
+  arstechnica · 2026-06-03 · https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/
+• 独家解读丨马斯克Cybercab还没交卷，中国无人车已经卷到伦敦街头
+  jtks-leifengwang · 2026-06-02 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651749793&amp;idx=1&amp;sn=e32b3b2102b2145ec436043abae025b1&amp;chksm=6309e956005eaa74aba136a02b834f6057ad9fc4b0c4049cb598876c8f78d6689e10ba5a4cd0&amp;scene=0#rd
+
+【机器人硬件】
+• Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.
+  techcrunch-ai · 2026-06-04 · https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/
+• 全球首台机器人塔吊式 3D 打印机亮相：最高可建 100 米混凝土高楼
+  IT之家 · 2026-06-04 · https://www.ithome.com/0/960/175.htm
+• Amazon develops a warehouse robot that workers can speak to
+  theverge · 2026-06-04 · https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus
+
+【AI 消费硬件与脑机】
+• 本地AI时代开启，微软正在重新定义PC！Build 2026最大看点，你的电脑即将装入一颗“AI心脏”
+  jtks-51cto · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940363&amp;idx=1&amp;sn=3ba13f4184831f2ee800bf70d713bdd9&amp;chksm=bc0bffc9bd06d57402ac5b11d6dcd91c484c6ff015912a8f5a54253c10bc1a61f01c217c8565&amp;scene=0#rd
+• 争夺AI手机入口，豆包和微信打起来了
+  36氪 · 2026-06-04 · https://www.36kr.com/p/3838411102534533
+• 深度｜Neuralink CEO：脑机接口与AI的真正突破，是绕过键盘和语言，直接基于原始意图进行计算
+  jtks-zpotentials · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515992&amp;idx=1&amp;sn=8a18c33d854c82c8f45d439af9dfe72a&amp;chksm=ea170d9b81aabe06c49982054d65be7c2d1af55d7b1668f15bda774253713819af6d202a88c3&amp;scene=0#rd
+
+【AI Agent】
+• 速递｜Codex并入ChatGPT，OpenAI超级应用将至
+  jtks-zpotentials · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515992&amp;idx=2&amp;sn=c26807a0bdbe68ecf7167d7c0a712e37&amp;chksm=ea9ac95666e9052cec9ba13d2946534a162d036d1c02b1d04249bfc89063b5dc1f0417b9c12a&amp;scene=0#rd
+• 126 天后，扣子升级到 3.0：「@ 一下，全员就位」
+  jtks-crossing · 2026-06-02 · http://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&amp;mid=2649108857&amp;idx=1&amp;sn=6d48568bb8404661500e8e2bee367dea&amp;chksm=82574976c5addb9081aef4c8279d063a7fc2170c154f15b58bfb87c6bbeb1076c076422c3893&amp;scene=0#rd
+• 微软发布 ACS 开源标准，让开发者精细化控制 AI 智能体行为
+  IT之家 · 2026-06-02 · https://www.ithome.com/0/959/022.htm
+• 微软版“龙虾”Scout 发布，深度整合 Outlook、OneDrive 等 365 生态
+  IT之家 · 2026-06-02 · https://www.ithome.com/0/959/019.htm
+
+【💰 财经动态】
+• 800亿美元！OpenAI、Anthropic还没IPO，谷歌先下场“抢钱”了
+  jtks-aifrontline · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663124&amp;idx=1&amp;sn=deb9c1797f3f84baa6d60679c42e482f&amp;chksm=fa461872d1371209b985e89fc2a684779c9fdc0ba544684253f93ac156547525587c71b5860c&amp;scene=0#rd
+• 台积电股东会纪要
+  jtks-2030fy · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzYyMjU1NzM2OQ==&amp;mid=2247484860&amp;idx=1&amp;sn=1fab89da0b44ed35ffacd75e2f7ebf30&amp;chksm=fe7cc071636a2b871fd58dead1eda962eae132209172aaee31b2e24770615c7ec33ae287d038&amp;scene=0#rd
+• 收费才是DeepSeek的“成人礼”
+  36氪 · 2026-06-04 · https://www.36kr.com/p/3838491912440326
+• 速递｜AI音乐独角兽Suno再融4亿美元，估值翻倍至54亿美元，订阅用户超200万
+  jtks-zpotentials · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515992&amp;idx=3&amp;sn=2ad060ee4bbbd965f8e79a4778eefe09&amp;chksm=eae9159852b754f4c1862f4c9cf2688bff48af23415cbbdf808f5f3b668f2d65a8e7ced68dd3&amp;scene=0#rd
+• 独家 | 字节火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元
+  jtks-zhinengyongxian · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247516676&amp;idx=1&amp;sn=679ed1cb81ed7f87c5edcdc60729ac32&amp;chksm=c1914b58a6d1c3bd8ba4098908b65219e47007a5545d08c0609e6774a2194bd1b2e02c3f8126&amp;scene=0#rd
+• Anthropic Files Confidentially for IPO in Race With OpenAI
+  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/news/videos/2026-06-01/anthropic-files-confidentially-for-ipo-in-race-with-openai
+</description>
+      <pubDate>Fri, 05 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-05</guid>
+      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-05.mp3" length="9514465" type="audio/mpeg"/>
+      <itunes:duration>09:55</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
