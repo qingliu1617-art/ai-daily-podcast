@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 14:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:29:41 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -25,7 +25,7 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>06/03 · 周三 AI 日报</title>
+      <title>6月3日AI新闻速递</title>
       <description>📋 今日要闻 · 2026-06-03
 
 【AI 基础设施】
@@ -119,7 +119,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>05/26 · 周二 AI 日报</title>
+      <title>5月26日AI新闻速递</title>
       <description>各位听众早上好，今天是 5 月 26 日，欢迎收听 AI 日报，我是你的主播。今天我们会聊到几件大事：华为推出超大容量企业级 SSD、谷歌 CEO 承认 Coding 落后、小鹏欢迎特斯拉 FSD 入华，以及全国首个开源鸿蒙机器人操作系统发布，还有几条财经动态。
 
 先来看 AI 基础设施这块。华为最近在巴黎 ID Forum 2026 上展示了一项全新的 Die-on-Board 封装技术，基于这项技术推出的大容量 SSD 系列中，有一款面向 AI 推理和数据中心的产品，提供 61.44TB 和 122.88TB 两种容量选择，未来还计划推出 245TB 的版本。这表明存储领域正朝着更大容量和更高密度的方向迈进，尤其是在企业级应用中，这种技术可能会显著提升数据处理效率。与此同时，模拟芯片也开始成为 AI 基础设施的重要关注点。英伟达最新财报显示其数据中心收入同比增长 92%，而 SK 海力士则加大了对 HBM 相关设备的投资力度。此外，ADI 近期以 15 亿美元收购 Empower Semiconductor，这一动作释放出明确信号：AI 基础设施的竞争正在从 GPU 和 HBM 等显性算力环节，逐步下沉到电源管理、功率器件等底层支撑技术。再看一条储能领域的动态，国内单体容量最大的智能组串式储能电站已在内蒙古包头落地，这个项目搭载了 1944 台华为智能组串式构网 PCS，并利用废旧矿坑实现了生态修复。这说明绿色能源与 AI 基础设施的结合正在加速推进。最后，NVIDIA 在 COMPUTEX 上的 GTC Taipei 活动聚焦于 AI 工厂、扩展基础设施以及物理 AI 等前沿话题，同时其首款专为代理设计的 CPU Vera 已经交付给 Anthropic、OpenAI 等顶级 AI 实验室。这几条放一起看，半导体侧整体往大容量存储、先进封装和底层支撑技术走，同时绿色能...</description>
@@ -131,7 +131,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>06/02 · 周二 AI 日报</title>
+      <title>6月2日AI新闻速递</title>
       <description>📋 今日要闻 · 2026-06-02
 
 【AI 基础设施】
@@ -233,7 +233,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>06/04 · 周四 AI 日报</title>
+      <title>6月4日AI新闻速递</title>
       <description>📋 今日要闻 · 2026-06-04
 
 【AI 基础设施】
@@ -309,7 +309,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>05/31 · 周日 AI 日报</title>
+      <title>5月31日AI新闻速递</title>
       <description>📋 今日要闻 · 2026-05-31
 
 【AI 基础设施】
@@ -391,7 +391,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>05/24 · 来自华为的一项突破性技术</title>
+      <title>5月24日AI新闻速递 · 来自华为的一项突破性技术</title>
       <description>各位听众早上好，今天是 5 月 24 日，欢迎收听 AI 日报，我是你的主播。
 
 今天的头条来自华为的一项突破性技术。华为在巴黎举行的 ID Forum 2026 活动上展示了一种全新的 Die-on-Board 封装技术，基于这项技术，他们推出了一款面向 AI 推理和数据中心的 SSD，容量高达 61.44TB 和 122.88TB，并且未来还计划推出 245TB 的版本。这标志着存储技术的一次重大飞跃，尤其是在 AI 数据中心领域，超大容量存储设备将为模型训练和推理提供更强的支持。不过具体性能指标和落地细节目前官方还没有披露，咱们可以期待后续的更多信息。
@@ -411,7 +411,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>06/01 · 周一 AI 日报</title>
+      <title>6月1日AI新闻速递</title>
       <description>📋 今日要闻 · 2026-06-01
 
 【AI 基础设施】
