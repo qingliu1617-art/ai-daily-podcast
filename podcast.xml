@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 22:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 23:18:03 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -112,8 +112,8 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>6月4日AI新闻速递</title>
-      <description>📋 今日要闻 · 2026-06-04
+      <title>周四AI新闻速递</title>
+      <description>📋 今日要闻 · 周四特辑
 
 【AI 基础设施】
 • 万亿IPO前夜，OpenAI把赌注押到了基建工地上
