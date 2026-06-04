@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 14:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:22:20 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -110,10 +110,7 @@
 • CoreWeave-Tied Data Center Raises $900 Million in Junk-Bond Sale
   bloomberg-tech · 2026-06-02 · https://www.bloomberg.com/news/articles/2026-06-02/coreweave-tied-data-center-raises-900-million-in-junk-bond-sale
 • SoftBank Plans Up to €75 Billion Investment in French AI Centers
-  bloomberg-tech · 2026-05-30 · https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say
-
-— 事实核查: ⚠️ `review`
-— 完整稿件: https://qingliu1617-art.github.io/ai-daily-podcast/</description>
+  bloomberg-tech · 2026-05-30 · https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say</description>
       <pubDate>Wed, 03 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-03</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-03.mp3" length="11476260" type="audio/mpeg"/>
@@ -125,9 +122,7 @@
       <title>05/26 · 周二 AI 日报</title>
       <description>各位听众早上好，今天是 5 月 26 日，欢迎收听 AI 日报，我是你的主播。今天我们会聊到几件大事：华为推出超大容量企业级 SSD、谷歌 CEO 承认 Coding 落后、小鹏欢迎特斯拉 FSD 入华，以及全国首个开源鸿蒙机器人操作系统发布，还有几条财经动态。
 
-先来看 AI 基础设施这块。华为最近在巴黎 ID Forum 2026 上展示了一项全新的 Die-on-Board 封装技术，基于这项技术推出的大容量 SSD 系列中，有一款面向 AI 推理和数据中心的产品，提供 61.44TB 和 122.88TB 两种容量选择，未来还计划推出 245TB 的版本。这表明存储领域正朝着更大容量和更高密度的方向迈进，尤其是在企业级应用中，这种技术可能会显著提升数据处理效率。与此同时，模拟芯片也开始成为 AI 基础设施的重要关注点。英伟达最新财报显示其数据中心收入同比增长 92%，而 SK 海力士则加大了对 HBM 相关设备的投资力度。此外，ADI 近期以 15 亿美元收购 Empower Semiconductor，这一动作释放出明确信号：AI 基础设施的竞争正在从 GPU 和 HBM 等显性算力环节，逐步下沉到电源管理、功率器件等底层支撑技术。再看一条储能领域的动态，国内单体容量最大的智能组串式储能电站已在内蒙古包头落地，这个项目搭载了 1944 台华为智能组串式构网 PCS，并利用废旧矿坑实现了生态修复。这说明绿色能源与 AI 基础设施的结合正在加速推进。最后，NVIDIA 在 COMPUTEX 上的 GTC Taipei 活动聚焦于 AI 工厂、扩展基础设施以及物理 AI 等前沿话题，同时其首款专为代理设计的 CPU Vera 已经交付给 Anthropic、OpenAI 等顶级 AI 实验室。这几条放一起看，半导体侧整体往大容量存储、先进封装和底层支撑技术走，同时绿色能...
-
-— 事实核查: ⚠️ `review` | 归档: raw/AI 新闻/2026-05-26-AI日报.md</description>
+先来看 AI 基础设施这块。华为最近在巴黎 ID Forum 2026 上展示了一项全新的 Die-on-Board 封装技术，基于这项技术推出的大容量 SSD 系列中，有一款面向 AI 推理和数据中心的产品，提供 61.44TB 和 122.88TB 两种容量选择，未来还计划推出 245TB 的版本。这表明存储领域正朝着更大容量和更高密度的方向迈进，尤其是在企业级应用中，这种技术可能会显著提升数据处理效率。与此同时，模拟芯片也开始成为 AI 基础设施的重要关注点。英伟达最新财报显示其数据中心收入同比增长 92%，而 SK 海力士则加大了对 HBM 相关设备的投资力度。此外，ADI 近期以 15 亿美元收购 Empower Semiconductor，这一动作释放出明确信号：AI 基础设施的竞争正在从 GPU 和 HBM 等显性算力环节，逐步下沉到电源管理、功率器件等底层支撑技术。再看一条储能领域的动态，国内单体容量最大的智能组串式储能电站已在内蒙古包头落地，这个项目搭载了 1944 台华为智能组串式构网 PCS，并利用废旧矿坑实现了生态修复。这说明绿色能源与 AI 基础设施的结合正在加速推进。最后，NVIDIA 在 COMPUTEX 上的 GTC Taipei 活动聚焦于 AI 工厂、扩展基础设施以及物理 AI 等前沿话题，同时其首款专为代理设计的 CPU Vera 已经交付给 Anthropic、OpenAI 等顶级 AI 实验室。这几条放一起看，半导体侧整体往大容量存储、先进封装和底层支撑技术走，同时绿色能...</description>
       <pubDate>Tue, 26 May 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-05-26</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-26.mp3" length="12366618" type="audio/mpeg"/>
@@ -229,10 +224,7 @@
 • 刚刚，Anthropic提交了招股书！
   jtks-qbitai · 2026-06-02 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247894142&amp;idx=1&amp;sn=6fea01cf3cb9c8fa855e8e4e364e7e25&amp;chksm=e9be31cac18839dbf4e43bc6bfa26ebb0cc8ccae078f86e07bd624068698b4a18148b3d7a8f8&amp;scene=0#rd
 • 速递｜软银750亿欧元押注法国5GW数据中心，刷新欧洲AI基建投资规模
-  jtks-zpotentials · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515947&amp;idx=3&amp;sn=7a0e8b95a0c8f2c6d55b56c927f81ee2&amp;chksm=ea9345f0146fa6b7e860c3556c01c229bb8eba0705d18465da6e88c953ebb30d3b6bc4774bdd&amp;scene=0#rd
-
-— 事实核查: ⚠️ `review`
-— 完整稿件: https://qingliu1617-art.github.io/ai-daily-podcast/</description>
+  jtks-zpotentials · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515947&amp;idx=3&amp;sn=7a0e8b95a0c8f2c6d55b56c927f81ee2&amp;chksm=ea9345f0146fa6b7e860c3556c01c229bb8eba0705d18465da6e88c953ebb30d3b6bc4774bdd&amp;scene=0#rd</description>
       <pubDate>Tue, 02 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-02</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-02.mp3" length="12293790" type="audio/mpeg"/>
@@ -308,8 +300,7 @@
 • Anthropic秘密递表背后：算力赎身迫在眉睫
   36氪 · 2026-06-03 · https://www.36kr.com/p/3836194689088130
 • Earlier this month, our run-rate revenue crossed $47 billion.   This growth has 
-  x-anthropic · 2026-05-28 · https://www.x.com/AnthropicAI/status/2060061348818518493
-</description>
+  x-anthropic · 2026-05-28 · https://www.x.com/AnthropicAI/status/2060061348818518493</description>
       <pubDate>Thu, 04 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-04</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-04.mp3" length="9973279" type="audio/mpeg"/>
@@ -391,10 +382,7 @@
 • 一份股东名单里悄悄多了三个名字
   36氪 · 2026-05-29 · https://www.36kr.com/p/3829908137369865
 • 复旦学姐，估值1000亿
-  36氪 · 2026-05-31 · https://www.36kr.com/p/3831510606473090
-
-— 事实核查: ❌ `reject`
-— 完整稿件: https://qingliu1617-art.github.io/ai-daily-podcast/</description>
+  36氪 · 2026-05-31 · https://www.36kr.com/p/3831510606473090</description>
       <pubDate>Sun, 31 May 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-05-31</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-05-31.mp3" length="12654905" type="audio/mpeg"/>
@@ -414,9 +402,7 @@
 
 接下来聊聊大模型领域的最新进展。
 
-谷歌 CEO 在最近的一次发言中坦率承认，自家的 Gemini 模型在 Coding 领域确实有些落后了。虽然没有透露具体的改进计划，但这种直面问题的态度还是值得肯定的。与此同时，OpenAI 的一款模型成功解决了离散几何学中的一个长达 80 年的难题，推翻了一个重要的猜想。这是 AI 在数学研究领域的一个重要里程碑，证明了大模型在复杂问题求解上的潜力。另外，DeepMind 最近推出了 Gemin...
-
-— 事实核查: ⚠️ `review` | 归档: raw/AI 新闻/2026-05-24-AI日报.md</description>
+谷歌 CEO 在最近的一次发言中坦率承认，自家的 Gemini 模型在 Coding 领域确实有些落后了。虽然没有透露具体的改进计划，但这种直面问题的态度还是值得肯定的。与此同时，OpenAI 的一款模型成功解决了离散几何学中的一个长达 80 年的难题，推翻了一个重要的猜想。这是 AI 在数学研究领域的一个重要里程碑，证明了大模型在复杂问题求解上的潜力。另外，DeepMind 最近推出了 Gemin...</description>
       <pubDate>Sun, 24 May 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-05-24</guid>
       <enclosure url="https://example.github.io/ai-daily/audio/2026-05-24.mp3" length="4741002" type="audio/mpeg"/>
@@ -510,10 +496,7 @@
 • 速递｜韩国AI推理芯片商XCENA完成1.35亿美元B轮融资，估值5.7亿美元
   jtks-zpotentials · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515947&amp;idx=2&amp;sn=1dce03e54a8a81d79b01f63f10a014be&amp;chksm=ea6df64a787d61f9179ad3c8bafdda6a6532d9c204b9b4cdf4f520b93381979d03dfba50a655&amp;scene=0#rd
 • MiniMax：拟于科创板上市
-  36kr-newsflash · 2026-05-31 · https://36kr.com/newsflashes/3833797236336261?f=rss
-
-— 事实核查: ❌ `reject`
-— 完整稿件: https://qingliu1617-art.github.io/ai-daily-podcast/</description>
+  36kr-newsflash · 2026-05-31 · https://36kr.com/newsflashes/3833797236336261?f=rss</description>
       <pubDate>Mon, 01 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-01</guid>
       <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-01.mp3" length="12144993" type="audio/mpeg"/>
