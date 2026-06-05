@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 23:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 03:15:32 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/ai-daily-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -25,89 +25,95 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>06/05AI 行业快速</title>
+      <title>6月5日AI新闻速递</title>
       <description>📋 今日要闻 · 2026-06-05
 
 【AI 基础设施】
-• 郭明錤分析英伟达 N1X/N1 前景：瞄准端侧 AI 重度用户、出货量仍取决于 Windows
-  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/874.htm
-• Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just 
-  wired-ai · 2026-05-28 · https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/
-• BYD reveals China’s first in-house 4nm smart driving chip with massive computing
-  electrek · 2026-05-28 · https://electrek.co/2026/05/28/byd-reveals-chinas-first-in-house-4nm-smart-driving-chip/
-• NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition
-  NVIDIA Blog · 2026-05-26 · https://blogs.nvidia.com/blog/vera-cpu-phoronix/
+• 英伟达硅光正式量产！硅光量产兑现业绩，薄膜铌酸锂仍处题材博弈期
+  jtks-zihaotanxin · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=Mzk0ODUzNzI4OQ==&amp;mid=2247488228&amp;idx=1&amp;sn=bedda4bfd71c820ecb6b62b7bbeab8f6&amp;chksm=c3674042f410c954e156b100437734ff921d95bf7462d932e42374959dc14e0792a7970b9cb7#rd
+• 深圳国产芯片成功训练万亿级 AI 大模型：依托华为昇腾 910C，达到工业级运行标准
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/281.htm
+• AMD 展示其首个机架级 AI 平台 Helios，对垒英伟达 NVL72 VR200
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/247.htm
 
 【大模型】
-• 专家预测年底才到，Claude Mythos今天就跑出3小时6分！
-  jtks-xinzhiyuan · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652705015&amp;idx=2&amp;sn=23955f4f6d14f0d4f9eb777d596eb634&amp;chksm=f0303b61dbb0406c5fa015b151263fe435ac41a7db16b5d06e5c22c367941f54ea65c9efe0d2&amp;scene=0#rd
-• 谷歌I/O发布会最大的赢家，不是谷歌？
-  jtks-jiqizhixin · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651037098&amp;idx=3&amp;sn=366f12dfab34e405f0f97a49cea2f597&amp;chksm=856e5896acc7a385c861e674a167ce0186aac04e5213cf1f8a4f5eb5deb78ba302a98f0c90ce&amp;scene=0#rd
-• 被指助长暴力、将利润置于安全之上，OpenAI 遭美国佛罗里达州总检察长起诉
-  IT之家 · 2026-06-01 · https://www.ithome.com/0/958/441.htm
+• 突发！Anthropic呼吁全员停止AI研究
+  36氪 · 2026-06-05 · https://www.36kr.com/p/3839532802132489
+• Anthropic 称最新 AI 模型已显现可能脱离人类控制迹象，呼吁全球暂缓先进 AI 研发
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/218.htm
+• 93 亿参数打爆 800 亿，这个开源模型把 Midjourney 短板给秒了
+  36氪 · 2026-06-05 · https://www.36kr.com/p/3838962672388356
 
 【具身智能模型】
-• 深度｜李飞飞最新万字长文：渲染、模拟、规划合流，AI正在迎来「统一世界模型」时刻
-  jtks-zfinance · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ==&amp;mid=2453899147&amp;idx=1&amp;sn=e209295d046cffdfe260df6ea9d6627b&amp;chksm=89ddafe1b7584f6306e37784e139145312e0fd8f6bbe9082df8d1a0d6280c0bb104298a0c8dd&amp;scene=0#rd
-• 别再碰瓷100 亿美元“身价”的世界模型了，李飞飞这次手把手教你分辨
-  jtks-aifrontline · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663194&amp;idx=1&amp;sn=b5bd549604f1c54263866ea29150751c&amp;chksm=fa602961eca7ad22d9b31e7483f88b84aedf92d2ff4cc040a974bdff06392d0a93615fb0e72a&amp;scene=0#rd
-• 独家｜2026 年字节 AI 的四个关键命题
-  jtks-zhinengyongxian · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247516696&amp;idx=1&amp;sn=497ce1c0006a4e4abbd56e35f0fa87db&amp;chksm=c1757251ea5e7b729008b2aa565dd5d960cd9454a800f7154651878fa00ec87ff878fa273881&amp;scene=0#rd
-• CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI
-  jtks-qbitai · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247895048&amp;idx=1&amp;sn=ec4a4ad3ed33dbb770e48ffd7b1c1a5c&amp;chksm=e93e5d4a73e746da7e3f441534f7742974849d8e8d9ab68bfa93e44a9f201218a41b1f9a2a7f&amp;scene=0#rd
+• 刚刚，小鹏把世界模型的家底，在CVPR上公开了。
+  jtks-autodrive-heart · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695172&amp;idx=1&amp;sn=dba37f38320743e3902e891580f57af2&amp;chksm=cfb0955847c6ebfd934b9a38ab16720a4b980e78012f5d6591a282f5d2924479135fddbbb5a0&amp;scene=0#rd
+• 第一次觉得，我看到了未来的 VLA 应该有的样子。
+  jtks-tiannan-jushen · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzcwMzAxMDE0MA==&amp;mid=2247485359&amp;idx=1&amp;sn=d507b831c5d1abbbe9c7992adf9ae4c0&amp;chksm=f489c39cc3fe4a8a2ccfbe8e4b0465d260ecb832eac5b6a8bafcdf64b17bdf133d6bdfe79f30#rd
+• 看完这两篇工作，发现自变量的野心已经按不住了。
+  jtks-tiannan-jushen · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzcwMzAxMDE0MA==&amp;mid=2247485308&amp;idx=1&amp;sn=8db576fa8f5a2458198e9fdd2ff928e2&amp;chksm=f489c34fc3fe4a59e404b3566101f21f68f9fbf8e727eb11c4819c3a6b31be070d0e64d41acf#rd
 
 【智能驾驶】
-• China’s Robotaxi Dilemma Shows AI Policy Tension Between Growth and Jobs
-  bloomberg-tech · 2026-06-04 · https://www.bloomberg.com/news/newsletters/2026-06-04/china-s-robotaxi-dilemma-how-to-lead-in-ai-without-fueling-unemployment
-• 消息称尊界 S800 成功后华为在跟国产头部供应商合作，帮助后者发展高端子品牌和子型号产品
-  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/748.htm
-• MONA 系列首款 SUV，小鹏 L03 罗兰紫色实车曝光
-  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/743.htm
+• 深圳出台新能源车险高质量发展“深十条”
+  36kr-newsflash · 2026-06-05 · https://36kr.com/newsflashes/3839683855682056?f=rss
+• Tesla erases the past, CAT electrifies the future, and EV tech training TODAY
+  electrek · 2026-06-05 · https://electrek.co/2026/06/04/tesla-erases-the-past-cat-electrifies-the-future-and-ev-tech-training-today/
 
 【机器人硬件】
-• Amazon's new Proteus warehouse robot is fully autonomous
-  engadget · 2026-06-04 · https://www.engadget.com/2187338/amazons-new-proteus-warehouse-robot-is-fully-autonomous/
+• 消息称小鹏机器人核心产品一号位施晓鑫 6 月初主动离职
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/246.htm
+• 海尔展示行业首套 AI 未来智慧养老解决方案，三大 AI 陪伴机器人亮相
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/242.htm
+• 千寻智能在杭州成立机器人公司，注册资本1000万
+  36kr-newsflash · 2026-06-05 · https://36kr.com/newsflashes/3839698027317766?f=rss
+• IDC最新数据：追觅扫地机全球销量、销额双第一
+  36kr-newsflash · 2026-06-05 · https://36kr.com/newsflashes/3839669498906883?f=rss
 
 【AI 消费硬件与脑机】
-• 宏碁 Predator Atlas 8 掌机上手体验：英特尔 Arc G3（Extreme）芯片，三季度发售
-  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/854.htm
-• Dell Rivals Apple’s MacBook Neo With $699 Touch-Screen XPS 13 Laptop
-  bloomberg-tech · 2026-05-31 · https://www.bloomberg.com/news/articles/2026-05-31/dell-challenges-apple-s-macbook-neo-with-699-touch-screen-xps-13-laptop
-• After using this Windows laptop for work and play, I'm wondering why I still nee
-  zdnet · 2026-05-29 · https://www.zdnet.com/article/msi-raider-16-max-hx-review/
-• 15家！BEYOND Expo AI眼镜产业链展商汇总
-  jtks-xrvision · 2026-05-25 · http://mp.weixin.qq.com/s?__biz=MjM5OTY1ODgxMg==&amp;mid=2257490928&amp;idx=1&amp;sn=4c4f5b0308774b33bd6e0d56aaaa3247&amp;chksm=a50c42d4de368fd155e705a4b1122f59d2c1d23cc351d65551fa611371609aa19fde40ea2749&amp;scene=0#rd
+• AI 推高成本，多款 2026 笔记本起跳内存回归 8GB
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/260.htm
+• 华为 nova 16 / Pro / Ultra 手机首销：麒麟 9010S 处理器，2999 元起
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/234.htm
+• 华为 MatePad Pro Max 系列旗舰平板重点参数配置差异公布，一表看懂
+  IT之家 · 2026-06-01 · https://www.ithome.com/0/958/398.htm
+• 华硕 ROG XBOX Ally X20 掌机发布：7.4 英寸 OLED 屏、半透明黑色机身
+  IT之家 · 2026-06-01 · https://www.ithome.com/0/958/379.htm
 
 【AI Agent】
-• Holo3.1: Fast &amp; Local Computer Use Agents
-  Hugging Face · 2026-06-02 · https://huggingface.co/blog/Hcompany/holo31
-• 微软升级 Windows 365：支持开发者预配置环境、企业级 AI 智能体，新增 32 vCPU 与 GPU 型云电脑
-  IT之家 · 2026-06-02 · https://www.ithome.com/0/959/017.htm
-• Codex for every role, tool, and workflow
-  OpenAI Blog · 2026-06-02 · https://openai.com/index/codex-for-every-role-tool-workflow
-• NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From 
-  NVIDIA Blog · 2026-06-02 · https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/
-• Microsoft launches Scout, an OpenClaw-inspired personal assistant
-  techcrunch-ai · 2026-06-02 · https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/
+• 互联网史上首次：Cloudflare 称机器人请求流量已超人类
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/248.htm
+• OpenAI launches new Codex tools for white-collar work
+  techcrunch-ai · 2026-06-02 · https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/
+• Microsoft Scout is a new AI personal assistant built on OpenClaw
+  theverge · 2026-06-02 · https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw
+• Microsoft's Project Solara is an Android OS designed for agents instead of apps
+  arstechnica · 2026-06-02 · https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/
 
 【💰 财经动态】
-• 实测Claude Opus 4.8，这可能是第一个不会偷懒的模型。
-  jtks-shuzishengmingkazi · 2026-05-28 · http://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647682817&amp;idx=1&amp;sn=d1f463490433d00ab331659a19b7cc1f&amp;chksm=f14ce01452a4f771558cfefa2ca82dba00e61a5efb61b9f2d3248be788b0ba8869822b55e032&amp;scene=0#rd
-• Alphabet Upsizes Equity Offering to $85B for AI Spending
-  bloomberg-tech · 2026-06-03 · https://www.bloomberg.com/news/videos/2026-06-03/alphabet-upsizes-equity-offering-to-85b-for-ai-spending-video
-• 博通 2026 财年第二财季归母净利润 93.10 亿美元，同比增长 87.51%
-  IT之家 · 2026-06-03 · https://www.ithome.com/0/959/583.htm
-• 博通股价盘前跌超15%
-  36kr-newsflash · 2026-06-04 · https://36kr.com/newsflashes/3838788717152776?f=rss
-• DeepSeek 融资 500 亿，估值 4000 亿；「豆包专业版」确认，免费版不会降智；瑞幸、蜜雪冰城 Agent 接入阿里千问 | 极客早知道
-  jtks-geekpark · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108124&amp;idx=1&amp;sn=09c80d94b852b1d8e9997021b3a38ec1&amp;chksm=7f532a49aec97ed37ce91be5ff0081c72748743e643c5a51b631b5d42bf87cdecf4e6acfb2a7&amp;scene=0#rd
-• SpaceX’s xAI  just bought another $269M of Tesla Megapacks
-  electrek · 2026-06-04 · https://electrek.co/2026/06/04/spacex-xai-269-million-tesla-megapack-purchase-s1-filing/
+• Broadcom’s $280 Billion, Four-Day Bonanza to Get Earnings Check
+  bloomberg-tech · 2026-06-03 · https://www.bloomberg.com/news/articles/2026-06-03/broadcom-s-280-billion-four-day-bonanza-to-get-earnings-check
+• Nasdaq 100 Slides as Broadcom’s Weak Forecast Halts AI Rally
+  bloomberg-tech · 2026-06-04 · https://www.bloomberg.com/news/articles/2026-06-04/nasdaq-100-futures-drop-as-broadcom-forecast-spooks-traders
+• Broadcom Sinks After Disappointing AI Chip Outlook
+  bloomberg-tech · 2026-06-04 · https://www.bloomberg.com/news/videos/2026-06-04/broadcom-sinks-after-disappointing-ai-chip-outlook-video
+• 速递｜抢跑OpenAI，Anthropic秘密提交IPO文件，拟秋季上市
+  jtks-zpotentials · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515980&amp;idx=2&amp;sn=8aa70eb17663b86659a28cab6009aae7&amp;chksm=eaea6d053d8d76e3c74f604a22f8d60f6b5ad1ba04f8494dfa58b4c23d0728a379a07bdaa494&amp;scene=0#rd
+• Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s return
+  techcrunch-ai · 2026-06-04 · https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/
+• 硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资
+  36氪 · 2026-06-05 · https://www.36kr.com/p/3838835333253385
+• 深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发
+  36氪 · 2026-06-03 · https://www.36kr.com/p/3836068296209537
+• 蚂蚁、滴滴、德联领投，简智机器人完成数亿元多轮融资
+  jtks-jushen-jiyuan · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247494112&amp;idx=2&amp;sn=e173e169426dcd07a756b64fa214a87c&amp;chksm=c57e269352caa8b379f931210d8f9d79c83dbc8d51ddb37d3469c76b419d67c0436332a5d8f6&amp;scene=0#rd
+• 独家丨美团领投 A 轮， Mindverse 总融资 5000 万美元，打造持续学习的 Agent 模型
+  jtks-geekpark · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653107841&amp;idx=1&amp;sn=a0af2e2a487b657ae3fbf8157e9c8a01&amp;chksm=7f2a584553c5aa755ec1d0261536969702d8190afe2dfaba25e2f0318f1f8415796c8e8555fc&amp;scene=0#rd
+• OpenRouter 的悖论
+  36氪 · 2026-06-02 · https://www.36kr.com/p/3835541445686657
 </description>
       <pubDate>Fri, 05 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-05</guid>
-      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-05.mp3" length="9766495" type="audio/mpeg"/>
-      <itunes:duration>10:10</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/ai-daily-podcast/audio/2026-06-05.mp3" length="12150116" type="audio/mpeg"/>
+      <itunes:duration>12:39</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/ai-daily-podcast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
